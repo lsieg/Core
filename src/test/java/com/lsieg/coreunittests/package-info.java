@@ -5,4 +5,4 @@
  * @author lsieg
  *
  */
-package lsieg.core;
+package com.lsieg.coreunittests;

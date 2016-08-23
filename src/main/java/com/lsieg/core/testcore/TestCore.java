@@ -1,4 +1,4 @@
-package lsieg.core.testcore;
+package com.lsieg.core.testcore;
 
 public class TestCore {
 	
